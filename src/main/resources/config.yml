@@ -1,0 +1,25 @@
+##Turn everything you need true or off
+##For more info https://hub.spigotmc.org/javadocs/spigot/org/bukkit/potion/PotionType.html
+##Plugin by SlimeBluKing for ChillGames with <3
+
+AWKWARD: false
+FIRE_RESISTANCE: true
+INSTANT_DAMAGE: false
+INSTANT_HEAL: true
+INVISIBILITY: false
+JUMP: false
+LUCK: false
+MUNDANE: false
+NIGHT_VISION: false
+POISON: false
+REGEN: false
+SLOW_FALLING: false
+SLOWNESS: false
+SPEED: true
+STRENGTH: true
+THICK: false
+TURTLE_MASTER: false
+UNCRAFTABLE: false
+WATER: false
+WATER_BREATHING: false
+WEAKNESS: false

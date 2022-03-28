@@ -1,0 +1,10 @@
+name: Slimepot
+version: '${project.version}'
+main: com.slime.slimepot.Slimepot
+api-version: 1.15
+authors: [ SlimeBluKing ]
+description: A simple fast potions plugin
+commands:
+  sp-reload:
+    description: Reload Plugin
+    usage: /<command>
